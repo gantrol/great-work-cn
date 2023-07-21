@@ -1,6 +1,6 @@
 # 怎样成为一个“干大事”的人 [^great]
 
-> 这篇文章是 YC 创始人 Paul Graham 写的。[How to Do Great Work (paulgraham.com)](http://paulgraham.com/greatwork.html)，本仓库也有[一个备份（改了点语法错误，加上小节序号标题）](/references/How_to_Do_Great_Work.md)
+> 这篇文章是 YC 创始人 Paul Graham 写的。[How to Do Great Work (paulgraham.com)](http://paulgraham.com/greatwork.html)，本仓库也有[一个备份（改了点语法错误，加上小节序号标题）](/How_to_Do_Great_Work.md)
 >
 > 有很多相当精妙的描述，很长，但至少对有抱负的人来说，值得阅读、且希望它越长越好
 >
