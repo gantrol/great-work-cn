@@ -600,7 +600,7 @@
 
 [^vaccum]: 译注：真空会吸引周围的物质来填充它，又是理科生的类比
 
-[^grinder]: 译注：通常用来磨削或切割硬材料，比如金属。磨的时候会飞出的火花，类比为新想法。看来作者的受众主体是理科生  ![grinder_spark.png](../assets/grinder_spark.png)
+[^grinder]: 译注：通常用来磨削或切割硬材料，比如金属。磨的时候会飞出的火花，类比为新想法。看来作者的受众主体是理科生  ![grinder_spark.png](/assets/grinder_spark.png)
 
 [^broken]: 译注：broken 像是软件运行出错延伸出来的意思
 
