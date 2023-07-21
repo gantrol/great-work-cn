@@ -10,7 +10,7 @@
 > - 不要抄袭，但可临摹
 > - 一个词总结“干大事”的秘诀
 >
-> 建议下载后用`Typora`阅读
+> 手机端可考虑在[微信合集](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIzMzU4NDQwMg==&action=getalbum&album_id=3021333077979316229)分段阅读
 
 2023年7月 
 
