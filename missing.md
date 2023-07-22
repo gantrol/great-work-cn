@@ -64,7 +64,7 @@
 
 如果你玩竞技游戏，那么应该常常听到“逆风局”。中文对“逆风”的理解几乎都与逆境、困难相关，抱着这样的理解，你可能就读不懂这段了：
 
-> 在每一个阶段，做看起来最有趣的事情，并给未来留出最好的选项。我
+> 在每一个阶段，做看起来最有趣的事情，并给未来留出最好的选项。我称这种方法为“保持逆风”。
 >
 > At each stage do whatever seems most interesting and gives you the best options for the future. I call this approach "staying upwind."
 
