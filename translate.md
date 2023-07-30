@@ -28,10 +28,19 @@
 - affectation: 做作
 - intersection: 交集（保留这种冷不丁冒出一个术语的风格）
 
+### 西式中文自检表
+
+- 最XY之一：英文独有的表达，相当于TOP1的学校有两所，建议直接说很XY，极其XY等
+- 
+
 ## 工具
 
 - ChatGPT协助理解部分搭配
 - https://www.wordreference.com
+- https://www.webcorp.org.uk/live/
+- 维基百科
+- https://corpus.eduhk.hk/paraconc/search
+- http://www.natcorp.ox.ac.uk/
 - Merriam-Webster 英英词典
 
 [//]: # (TODO: 句法分析，好像有个Python包是Scy？)
@@ -41,7 +50,9 @@
 
 查找具体资料的方法：李长栓《非文学翻译理论与实践》（第二版）第五章和第六章
 
-余光中《怎样改进英式中文？──论中文的常态与变态》
+余光中《[怎样改进英式中文？──论中文的常态与变态](https://open.leancloud.cn/improve-chinese/)》
+
+李笑来《人人都能用英语》
 
 > 以中文为母语的译者，往往盲目崇拜英文，不敢对英文质量提出质疑。但普通的英文作者与中文作者一样，写作水平不一定很高，许多文字经不起译者推敲，翻译之前需要先行编辑
 > 
