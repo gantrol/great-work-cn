@@ -598,21 +598,21 @@
 
 [^excitingness]: 译注：原文是excitingness rule，其实就是指第一节开头三个标准之一——你对它有浓厚的兴趣
 
-[^frauds]: 译注：原文是 eminent frauds。“Eminent” 通常是指在某个领域里有着很高声望或者被广泛认可的。“Frauds” 则是指欺骗或者不真实的事物。所以 “eminent frauds” 可以理解为一些被社会广泛接受或者赞扬，但实际上可能并不真实或者并不值得追求的观念或者理念。
+[^frauds]: 译注：原文是 eminent frauds。“Eminent” 通常是指在某个领域里有着很高声望或者受广泛认可。“Frauds” 则是指欺骗或者不真实的事物。所以 “eminent frauds” 可以理解为一些被社会广泛接受或者赞扬，但实际上可能并不真实或者并不值得追求的观念或者理念。
 
-[^upwind]: 译注：原文是 staying upwind，应该是类比了飞机要逆风起飞，逆风提高空气流速，从而使飞机获得更大升力。但中文语境下很难理解，尤其是中文的顶风、逆风多含贬义，故意译为“顺势而为”。
+[^upwind]: 译注：原文是 staying upwind，应该是类比了飞机要逆风起飞，逆风提高空气流速，从而使飞机获得更大升力。但中文语境下，顶风、逆风多含贬义，故意译为“顺势而为”。
 
-[^just-one]: 译注：如果你有打游戏的朋友，那么应该懂“我就打一把”的梗；还有一些游戏想方设法让玩家天天上线……启动效应就有这样的魔力。
+[^just-one]: 译注：如果你有朋友玩游戏，那么应该懂“我就打一把”的梗；还有一些游戏想方设法让玩家天天上线……启动效应就有这样的魔力。
 
 [^exp]: 译注：如果你学过一点微分，那么应该知道 $ e ^ x $ 的导数就是它本身。也就是说，指数增长的增长率就是现在有的东西。如果一个人的心态是“有今没明”的，那么他就算知道指数增长是怎样的，也不会选择这样的方式。
 
 [^tomato]: 译注：比较出名的“专注-放松”循环是“番茄工作法”。
 
-[^undirected]: 译注：发散性思考，英文是 undirected thinking 或 divergent thinking。许多文献都谈到了创造性的活需要发散性思考，而不是追求一个最佳答案 (Runco, 2007; Russ, 2001; Smith & Ward, 2012)（《认知心理学》）
+[^undirected]: 译注：发散性思考，英文是 undirected thinking 或 divergent thinking。许多文献都谈到了创造性需要发散性思考，而不是追求一个最佳答案 (Runco, 2007; Russ, 2001; Smith & Ward, 2012)（《认知心理学》）
 
-[^10x]: 译注：这里可能有点太干了，*10x is easier than 2x* 把这节的观念写成了一本书，有兴趣可以去阅读。
+[^10x]: 译注：这里可能有点太干了，*10x is easier than 2x* 把这节写成了一本书，有兴趣可以去阅读。
 
-[^fool]: 译注：未搜到这个句子，但有相近的[愚昧人若静默不言，也可算为智慧。闭口不说，也可算为聪明。](https://www.bibleinfo.com/zh-hans/topics/愚蠢)
+[^fool]: 译注：未搜到这个句子，但有[愚昧人若静默不言，也可算为智慧。闭口不说，也可算为聪明。](https://www.bibleinfo.com/zh-hans/topics/愚蠢)
 
 [^quo]: 译注：现状偏见（Status quo bias）是指人们倾向于事物、习惯等不变，如果不可避免地改变，也会尽可能少改变。跟损失厌恶等心理效应相关。
 
@@ -630,7 +630,7 @@
 
 [^second]: 译注：第二个系统效应（"The second system effect"）用来描述软件工程中的一个常见现象：一个团队，在设计出第一个成功的系统后，往往会在设计第二个系统时，试图纳入所有他们在第一个系统中没能实现的所有特性和功能。这个过程中，他们往往过于乐观，对于实际的工作量和复杂性估计不足，从而导致第二个系统过于复杂，难以管理，甚至最后的失败。来自弗雷德·布鲁克斯的著作《人月神话》
 
-[^thread]: 译注：如果你居然不理解，那么可以找一件旧衣服，拉一下线头。对的，又是一个类比
+[^thread]: 译注：如果你居然不理解，那么可以找一件旧衣服，拉一下线头。又是一个类比
 
 [^evil]: 原文是“必要之恶”（necessary evil），一种为了达到更好的目的，只好接受的不好事物。这里意译为没有更好的选择；“不宽容的条件”（unforgiving conditions）意译为容错率低；“不灵活的媒介”，比如汽油车、硬件等。现在汽车行业也有将汽车功能软件化的趋势，
 
@@ -640,7 +640,7 @@
 
 [^hacking]: 译注：比如三短一长选最长，参差不齐就选 C ……
 
-[^loop]: 译注：又是理科生时间，"反馈循环"可能是指，接受委员会的反馈，改进自己的"大事"，然后再次提交给委员会评审的过程。然而这个循环并不成立。
+[^loop]: 译注：又是理科生时间，"反馈循环"可能是指，接受委员会反馈，改进"大事"，然后再次提交给委员会评审的过程。然而这个循环并不成立。
 
 [^medical-condition]: 译注：原文是 medical condition，健康问题。健康问题就要去解决，Paul 的神奇类比+1
 
@@ -648,4 +648,4 @@
 
 [^mo]: 译注：原文是`Not that anyone using this m.o. would care`。`m.o.`是`Modus Operandi`，用来描述个人或组织的特定行事方式或风格。
 
-[^pauling]: 译注：量子化学的先驱之一，原句来源于"If you want to have good ideas you must have many ideas. Most of them will be wrong, and what you have to learn is which ones to throw away"（LinusPauling, from Linus Pauling Quotes in AZ Quotes, http://www.azquotes.com/author/11421-Linus_Pauling ）
+[^pauling]: 译注：量子化学先驱之一，原句来源于"If you want to have good ideas you must have many ideas. Most of them will be wrong, and what you have to learn is which ones to throw away"（LinusPauling, from Linus Pauling Quotes in AZ Quotes, http://www.azquotes.com/author/11421-Linus_Pauling ）
