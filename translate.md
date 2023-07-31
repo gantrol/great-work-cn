@@ -31,7 +31,7 @@ Paul Graham 是计算机科学家，企业家，作家，还是风险投资者�
 - Do great work: 干大事
 - work: 工作、作品、事儿、事情等
 - copy: 临摹
-- ambitious: 有抱负的，偶尔翻译成雄心勃勃
+- ambitious: 有抱负的，ambitious project偶尔翻译成“大”项目
 - earnest: 诚挚
 - affectation: 做作
 - intersection: 交集（保留这种冷不丁冒出一个术语的风格）
@@ -61,7 +61,7 @@ Paul Graham 是计算机科学家，企业家，作家，还是风险投资者�
 - https://www.wordreference.com
 - https://www.webcorp.org.uk/live/
 - 维基百科
-- https://corpus.eduhk.hk/paraconc/search
+- https://corpus.eduhk.hk/paraconc/
 - http://www.natcorp.ox.ac.uk/
 - Merriam-Webster 英英词典
 
