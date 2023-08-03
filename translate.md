@@ -54,6 +54,7 @@ Paul Graham 是计算机科学家，企业家，作家，还是风险投资者�
         And "pornographic modernism", filth-
         And still I stand by tilth and filth and praise.
 - 传统：中文更倾向于风俗传统，而英文的意思更偏向于惯例、共识一类，一贯如此。
+- 听起来、看起来，酌情去掉
 
 ## 工具
 
