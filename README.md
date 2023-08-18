@@ -575,6 +575,8 @@
 
 但作者用了一些可要可不要的词，虽然更准确，但是直接翻译成中文，会导致难以阅读。这些地方只好去掉或意译。
 
+另外，这篇文章其实是作者多年短文的“综述”，综合了[The Lesson to Unlearn](http://paulgraham.com/lesson.html)、[How to Work Hard](http://paulgraham.com/hwh.html)、[How to Get New Ideas (paulgraham.com)](http://paulgraham.com/getideas.html)等文章，你可以在[作者网站的文章列表页](http://paulgraham.com/articles.html)找到。
+
 > Github 上不与原文注释区分
 
 [^great]: 译注：“great work”不会翻译成“伟业”，而是“干大事”。而且根据原作注释[^1]，“great work”定义一般不明朗，衡量标准不明确、通篇文章也相当口语化，也很符合“大事”这个词。
