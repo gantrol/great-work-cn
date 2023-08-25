@@ -36,6 +36,8 @@ Paul Graham 是计算机科学家，企业家，作家，还是风险投资者�
 - affectation: 做作
 - intersection: 交集（保留这种冷不丁冒出一个术语的风格）
 
+[//]: #TODO: (- respond: 待进一步确认)
+
 ### 西式中文自检表
 
 主要参考，《[怎样改进英式中文？──论中文的常态与变态](https://open.leancloud.cn/improve-chinese/)》
@@ -55,6 +57,10 @@ Paul Graham 是计算机科学家，企业家，作家，还是风险投资者�
         And still I stand by tilth and filth and praise.
 - 传统：中文更倾向于风俗传统，而英文的意思更偏向于惯例、共识一类，一贯如此。
 - 听起来、看起来，酌情去掉
+- xxx方式，酌情去掉
+- 一个xxx，酌情去掉
+- 你的，酌情去掉。可能会有种亲切感吧，但是演讲手法上讲，坏事不要跟听众绑到一起
+- 通过？
 
 ## 工具
 
